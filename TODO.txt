@@ -1,0 +1,5 @@
+To Do:
+	1° Structures -> tab (cases and pieces)
+	2° Creation functions (create piece, create tab)
+	3° Other functions (place piece, take out piece, turn piece and rotate piece)
+	4° Graphic HUD
